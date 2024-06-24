@@ -1,8 +1,9 @@
 ![logo](https://github.com/jamalshah690/jamalshah690/blob/main/5.jpg)
 
- ![logo](https://github.com/jamalshah690/jamalshah690/blob/main/book.gif)
-
  
+ <div align="center">
+  <img src="https://github.com/jamalshah690/jamalshah690/blob/main/book.gif" alt="Example GIF" style="width:100%;height:auto;" />
+</div>
 <h1 align="center">Hi 👋, Nice to see you</h1>
 
 ### :man_technologist: About Me :
