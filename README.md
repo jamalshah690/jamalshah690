@@ -92,7 +92,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   
   <div align=center>
 
-[![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/jamalshah690/badge/languages/country.svg)](https://stardev.io/developers/jamalshah690)
+[![Check out Jamal Shah profile on stardev.io](https://stardev.io/developers/jamalshah690/badge/languages/country.svg)](https://stardev.io/developers/jamalshah690)
 
  </div>
  
@@ -101,7 +101,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   
   <div align=center>
  
-[![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/jamalshah690/badge/languages/locality.svg)](https://stardev.io/developers/jamalshah690)
+[![Check out Jamal Shah profile on stardev.io](https://stardev.io/developers/jamalshah690/badge/languages/locality.svg)](https://stardev.io/developers/jamalshah690)
 
    
   ### Github Activity: 🎆
