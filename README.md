@@ -1,7 +1,8 @@
 ![logo](https://github.com/jamalshah690/jamalshah690/blob/main/5.jpg)
 
-[![Mobile App Showcase](https://github.com/your-username/your-repo-name/blob/main/assets/animation-thumbnail.png)](https://lottiefiles.com/animations/mobile-app-showcase-g4tU30UUcL?from=search)
+ ![logo](https://github.com/jamalshah690/jamalshah690/blob/main/book.json)
 
+ 
 <h1 align="center">Hi 👋, Nice to see you</h1>
 
 ### :man_technologist: About Me :
