@@ -19,8 +19,8 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 
 ### How to reach me: 
-<a href="mailto: muhammadnaseer.dev@gmail.com">
-<img src="https://img.shields.io/badge/-muhammadnaseer.dev@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jamalshah690/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerkhan.me/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: jamalshahinfo.690@gmail.com">
+<img src="https://img.shields.io/badge/-jamalshahinfo.690@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jamalshah690/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerkhan.me/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
@@ -112,6 +112,6 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jamalshah690&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
     
-Credits: [Muhammad Naseer](https://github.com/jamalshah690)
+Credits: [Jamal Shah](https://github.com/jamalshah690)
 
 Last Edited on: 01/06/2024
